@@ -1,0 +1,44 @@
+c:\users\casper\documents\visual studio 2013\Projects\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.exe.config
+c:\users\casper\documents\visual studio 2013\Projects\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.exe
+c:\users\casper\documents\visual studio 2013\Projects\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.pdb
+c:\users\casper\documents\visual studio 2013\Projects\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csprojResolveAssemblyReference.cache
+c:\users\casper\documents\visual studio 2013\Projects\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Form1.resources
+c:\users\casper\documents\visual studio 2013\Projects\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Properties.Resources.resources
+c:\users\casper\documents\visual studio 2013\Projects\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.GenerateResource.Cache
+c:\users\casper\documents\visual studio 2013\Projects\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.exe
+c:\users\casper\documents\visual studio 2013\Projects\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.pdb
+c:\users\casper\documents\visual studio 2013\Projects\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Form2.resources
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.exe.config
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.exe
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.pdb
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.AssemblyReference.cache
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Form1.resources
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Form2.resources
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Properties.Resources.resources
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.GenerateResource.cache
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.exe
+C:\Users\sumey\Desktop\Selman\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.pdb
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.exe.config
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.exe
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.pdb
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.AssemblyReference.cache
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Form1.resources
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Form2.resources
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Properties.Resources.resources
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.GenerateResource.cache
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.CoreCompileInputs.cache
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.exe
+D:\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.pdb
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.exe.config
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.exe
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\bin\Debug\Şehir Tahmin Oyunu.pdb
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.AssemblyReference.cache
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Form1.resources
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Form2.resources
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir_Tahmin_Oyunu.Properties.Resources.resources
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.GenerateResource.cache
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.csproj.CoreCompileInputs.cache
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.exe
+D:\Selman\SELMAN\Eğitim Klasörü\Şehir Tahmin Oyunu\Şehir Tahmin Oyunu\obj\Debug\Şehir Tahmin Oyunu.pdb
