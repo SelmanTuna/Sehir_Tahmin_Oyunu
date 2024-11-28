@@ -8,18 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Şehir_Tahmin_Oyunu
+namespace ders_92_şehir_tahmin_oyunu_
 {
     public partial class Form1 : Form
     {
-        String[] sehirlistesi =       { "İstanbul", "Ankara", "İzmir", "Adana", "Adıyaman", 
+        string[] sehirlistesi = {      "İstanbul", "Ankara", "İzmir", "Adana", "Adıyaman",
                                        "Afyonkarahisar", "Ağrı", "Aksaray", "Amasya", "Antalya",
                                        "Ardahan", "Artvin", "Aydın", "Balıkesir", "Bartın", "Batman",
-                                       "Bayburt", "Bilecik", "Bingöl", "Bitlis", "Bolu", "Burdur", 
-                                       "Bursa", "Çanakkale", "Çankırı", "Çorum", "Denizli", 
-                                       "Diyarbakır", "Düzce", "Edirne", "Elazığ", "Erzincan", 
-                                       "Erzurum", "Eskişehir", "Gaziantep", "Giresun", "Gümüşhane", 
-                                       "Hakkari", "Hatay", "Iğdır", "Isparta", "Kahramanmaraş", 
+                                       "Bayburt", "Bilecik", "Bingöl", "Bitlis", "Bolu", "Burdur",
+                                       "Bursa", "Çanakkale", "Çankırı", "Çorum", "Denizli",
+                                       "Diyarbakır", "Düzce", "Edirne", "Elazığ", "Erzincan",
+                                       "Erzurum", "Eskişehir", "Gaziantep", "Giresun", "Gümüşhane",
+                                       "Hakkari", "Hatay", "Iğdır", "Isparta", "Kahramanmaraş",
                                        "Karabük", "Karaman", "Kars", "Kastamonu", "Kayseri",
                                        "Kırıkkale", "Kırklareli", "Kırşehir", "Kilis", "Kocaeli",
                                        "Konya", "Kütahya", "Malatya", "Manisa", "Mardin", "Mersin",
@@ -43,55 +43,55 @@ namespace Şehir_Tahmin_Oyunu
             bulunanharfsayisi = 0;
             BtnHarfGir.Enabled = true;
             BtnTahminEt.Enabled = true;
-            LblGirilenHarfler.Text = "";
+            LblGirilenHarf.Text = "";
             kalanhak = 4;
-
             YeniSehirSec();
 
-            GrpOyunAlani.Controls.Clear();
+            GrpSoruAlanı.Controls.Clear();
 
-            for (int i = 0; i < bulunacaksehirismi.Length; i++)
+            for(int i = 0; i < bulunacaksehirismi.Length; i++)
             {
                 Label label = new Label();
                 label.Location = new Point(20 * i + 30, 20);
                 label.Text = bulunacaksehirismi[i].ToString();
-                label.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.50F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+                label.Font = new System.Drawing.Font("Calibri", 8.50F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
                 label.Size = new System.Drawing.Size(15, 20);
                 label.BackColor = Color.Red;
                 label.ForeColor = Color.Red;
-                GrpOyunAlani.Controls.Add(label);
-               
+                GrpSoruAlanı.Controls.Add(label);
+
             }
         }
 
         private void BtnHarfGir_Click(object sender, EventArgs e)
         {
             bool harfVarmi = false;
-            if (TxtHarf.Text.Length != 1)
+            if(txtHarf.Text.Length != 1)
             {
                 MessageBox.Show("Lütfen Tek Harf Giriniz");
             }
             else
             {
-                if (LblGirilenHarfler.Text.Contains(TxtHarf.Text))
+                if (LblGirilenHarf.Text.Contains(txtHarf.Text))
                 {
                     MessageBox.Show("Bu harfi daha önce girmiştiniz");
-                    TxtHarf.Text = "";
-                    TxtHarf.Focus();
+                    txtHarf.Text = "";
+                    txtHarf.Focus();
 
                     return;
                 }
-                foreach (Control item in GrpOyunAlani.Controls)
+                foreach(Control item in GrpSoruAlanı.Controls)
                 {
-                    if (item is Label)
+                    if(item is Label)
                     {
                         Label label = item as Label;
-                        if (label.Text.ToUpper() == TxtHarf.Text.ToUpper())
+                        if (label.Text.ToUpper() == txtHarf.Text.ToUpper())
                         {
                             label.ForeColor = Color.Black;
                             label.BackColor = Color.Lime;
                             harfVarmi = true;
                             bulunanharfsayisi++;
+
                         }
                     }
                 }
@@ -104,20 +104,19 @@ namespace Şehir_Tahmin_Oyunu
                 {
                     BtnHarfGir.Enabled = false;
                     BtnTahminEt.Enabled = false;
-                    MessageBox.Show("Oyun Bitii.Kaybettiniz Yeni oyun için yeni oyun butonuna tıklayın   " + bulunacaksehirismi);
-
+                    MessageBox.Show("Oyun Bitti.Yeni Oyun Butonuna Tıklayın " + bulunacaksehirismi);
                 }
             }
-            LblGirilenHarfler.Text += TxtHarf.Text + " ";
+            LblGirilenHarf.Text += txtHarf.Text + "";
             if (bulunanharfsayisi == bulunacaksehirismi.Length)
             {
                 BtnHarfGir.Enabled = false;
                 BtnTahminEt.Enabled = false;
-                MessageBox.Show("Oyun Bitti.Tebrikler gayet başarılı bir el geçirdiniz ve oyunu kazandınız :)");
-
+                MessageBox.Show("Oyun Bitti.Tebrikler Oyunu Kazandınız");
             }
-            TxtHarf.Text = "";
-            TxtHarf.Focus();
+            txtHarf.Text = "";
+            txtHarf.Focus();
+
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -127,34 +126,39 @@ namespace Şehir_Tahmin_Oyunu
             rastgele = new Random();
 
             this.AcceptButton = BtnHarfGir;
+
         }
         private void YeniSehirSec()
         {
             int rastgelesayi = rastgele.Next(0, sehirlistesi.Length);
             bulunacaksehirismi = sehirlistesi[rastgelesayi];
+
         }
 
         private void BtnTahminEt_Click(object sender, EventArgs e)
         {
             if (bulunacaksehirismi.ToUpper() == TxtKelime.Text.ToUpper())
             {
-                foreach (Control item in GrpOyunAlani.Controls)
+                foreach(Control item in GrpSoruAlanı.Controls)
                 {
-                    if (item is Label)
+                    if(item is Label)
                     {
                         Label label = item as Label;
                         label.ForeColor = Color.Black;
                         label.BackColor = Color.Lime;
+
                     }
+
                 }
-                MessageBox.Show("Oyun Bitti Tebrikler kazandınız :)");
+                MessageBox.Show("Oyun Bitti Tebrikler Kazandınız");
             }
             else
             {
-                MessageBox.Show("Oyun Bitti maalesef kaybettiniz   " + bulunacaksehirismi);
+                MessageBox.Show("Oyun Bitti Malesef Kaybettiniz    "+bulunacaksehirismi);
             }
             BtnHarfGir.Enabled = false;
             BtnTahminEt.Enabled = false;
+
         }
     }
 }

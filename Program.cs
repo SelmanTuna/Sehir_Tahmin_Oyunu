@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Şehir_Tahmin_Oyunu
+namespace ders_92_şehir_tahmin_oyunu_
 {
-    static class Program
+    internal static class Program
     {
         /// <summary>
         /// The main entry point for the application.

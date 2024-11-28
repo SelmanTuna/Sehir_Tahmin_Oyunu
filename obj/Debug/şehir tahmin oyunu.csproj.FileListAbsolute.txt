@@ -1,0 +1,11 @@
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\bin\Debug\ders-92(şehir tahmin oyunu).exe.config
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\bin\Debug\ders-92(şehir tahmin oyunu).exe
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\bin\Debug\ders-92(şehir tahmin oyunu).pdb
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\şehir tahmin oyunu.csproj.AssemblyReference.cache
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders_92_şehir_tahmin_oyunu_.Form1.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders_92_şehir_tahmin_oyunu_.Form2.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders_92_şehir_tahmin_oyunu_.Properties.Resources.resources
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\şehir tahmin oyunu.csproj.GenerateResource.cache
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\şehir tahmin oyunu.csproj.CoreCompileInputs.cache
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders-92(şehir tahmin oyunu).exe
+D:\Selman\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders-92(şehir tahmin oyunu).pdb

@@ -1,0 +1,12 @@
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders-92(şehir tahmin oyunu).csproj.AssemblyReference.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders-92(şehir tahmin oyunu).csproj.SuggestedBindingRedirects.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders_92_şehir_tahmin_oyunu_.Form1.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders_92_şehir_tahmin_oyunu_.Properties.Resources.resources
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders-92(şehir tahmin oyunu).csproj.GenerateResource.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders-92(şehir tahmin oyunu).csproj.CoreCompileInputs.cache
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\bin\Debug\ders-92(şehir tahmin oyunu).exe.config
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\bin\Debug\ders-92(şehir tahmin oyunu).exe
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\bin\Debug\ders-92(şehir tahmin oyunu).pdb
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders-92(şehir tahmin oyunu).exe
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders-92(şehir tahmin oyunu).pdb
+C:\Users\sumey\Documents\Visual Studio 2022\Selman's Project\C# FORM DERSLERİ\ders-92(şehir tahmin oyunu)\obj\Debug\ders_92_şehir_tahmin_oyunu_.Form2.resources
